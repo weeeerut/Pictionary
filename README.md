@@ -1,4 +1,5 @@
-#Pictionary - Draw N Guess
+#Pictionary
+
 A local multiplayer Pictionary-style game built with Python and Tkinter! One player draws a randomly chosen word, and the others try to guess it before the timer runs out.
 
 Features
